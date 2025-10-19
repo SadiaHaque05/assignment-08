@@ -1,6 +1,6 @@
 [
   {
-    "image": "../public/demo-app (1).webp",
+    "image": "/demo-app (1).webp",
     "title": "SuperApp Pro - All-in-One Productivity",
     "companyName": "Tech Innovations Ltd.",
     "id": 1,
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (2).webp",
+    "image": "/demo-app (2).webp",
     "title": "PhotoMaster - Edit Photos, and Make Collages",
     "companyName": "PixelCraft Studios",
     "id": 2,
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (3).webp",
+    "image": "/demo-app (3).webp",
     "title": "FitTrack  - Track Workouts, and Health Progress",
     "companyName": "HealthTech Inc.",
     "id": 3,
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (6).webp",
+    "image": "/demo-app (6).webp",
     "title": "NoteMaster - Capture Ideas and Stay Productive",
     "companyName": "EduSoft",
     "id": 4,
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (4).webp",
+    "image": "/demo-app (4).webp",
     "title": "TaskMaster - Organize Lists and Track Deadlines",
     "companyName": "Productivity Plus",
     "id": 5,
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (5).webp",
+    "image": "/demo-app (5).webp",
     "title": "BudgetBuddy  - Track Expenses and Achieve Goals",
     "companyName": "Finance Solutions",
     "id": 6,
@@ -108,7 +108,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (2).webp",
+    "image": "/demo-app (2).webp",
     "title": "TravelMate  - Plan Your Trips",
     "companyName": "GlobeTrotter Apps",
     "id": 7,
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (1).webp",
+    "image": "/demo-app (1).webp",
     "title": "LanguagePro - Learn New Languages",
     "companyName": "LinguaTech",
     "id": 8,
@@ -144,7 +144,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (3).webp",
+    "image": "/demo-app (3).webp",
     "title": "CookMaster - Step-by-Step Recipes",
     "companyName": "Gourmet Apps",
     "id": 9,
@@ -162,7 +162,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (4).webp",
+    "image": "/demo-app (4).webp",
     "title": "StudyBuddy - Organize Study Materials",
     "companyName": "EduTech Solutions",
     "id": 10,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (5).webp",
+    "image": "/demo-app (5).webp",
     "title": "MindCalm - Guided Meditation and Stress Relief",
     "companyName": "Wellness Apps",
     "id": 11,
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (6).webp",
+    "image": "/demo-app (6).webp",
     "title": "MusicWave - Stream Millions of Songs",
     "companyName": "SoundTech Labs",
     "id": 12,
@@ -216,7 +216,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (5).webp",
+    "image": "/demo-app (5).webp",
     "title": "FitMeal - Personalized Nutrition Plans",
     "companyName": "NutriTech Labs",
     "id": 13,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (4).webp",
+    "image": "/demo-app (4).webp",
     "title": "EventPlanner - Plan and Manage Events",
     "companyName": "Eventify Inc.",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (3).webp",
+    "image": "/demo-app (3).webp",
     "title": "PhotoScan Pro - Scan and Enhance Photos",
     "companyName": "ScanTech Solutions",
     "id": 15,
@@ -270,7 +270,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (2).webp",
+    "image": "/demo-app (2).webp",
     "title": "SleepWell - Sleep Tracking and Relaxation",
     "companyName": "DreamTech Apps",
     "id": 16,
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (1).webp",
+    "image": "/demo-app (1).webp",
     "title": "GameZone - Play and Discover Games",
     "companyName": "FunSoft Studios",
     "id": 17,
@@ -306,7 +306,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (2).webp",
+    "image": "/demo-app (2).webp",
     "title": "WeatherWise - Real-Time Weather Updates",
     "companyName": "ClimateTech Labs",
     "id": 18,
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (3).webp",
+    "image": "/demo-app (3).webp",
     "title": "TravelLog - Document Your Journeys",
     "companyName": "TravelTech Studios",
     "id": 19,
@@ -342,7 +342,7 @@
     ]
   },
   {
-    "image": "../public/demo-app (4).webp",
+    "image": "/demo-app (4).webp",
     "title": "ArtStudio - Draw, Paint, and Create",
     "companyName": "CreativeApps Inc.",
     "id": 20,
