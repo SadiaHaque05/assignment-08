@@ -1,0 +1,362 @@
+[
+  {
+    "image": "../public/demo-app (1).webp",
+    "title": "SuperApp Pro - All-in-One Productivity",
+    "companyName": "Tech Innovations Ltd.",
+    "id": 1,
+    "description": "SuperApp Pro is an all-in-one productivity tool designed to streamline your workflow. With features like task management, calendar integration, and real-time collaboration, it helps you stay organized and efficient. Whether you're working solo or with a team, SuperApp Pro adapts to your needs, making project management seamless and intuitive.",
+    "size": 15,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": "1.2M",
+    "ratings": [
+      {"name": "1 star", "count": 50},
+      {"name": "2 star", "count": 100},
+      {"name": "3 star", "count": 200},
+      {"name": "4 star", "count": 400},
+      {"name": "5 star", "count": 450}
+    ]
+  },
+  {
+    "image": "../public/demo-app (2).webp",
+    "title": "PhotoMaster - Edit Photos, and Make Collages",
+    "companyName": "PixelCraft Studios",
+    "id": 2,
+    "description": "PhotoMaster is a powerful photo editing app that brings professional-grade tools to your fingertips. With advanced features like layer editing, filters, and retouching tools, you can transform ordinary photos into stunning masterpieces. Whether you're a beginner or a seasoned photographer, PhotoMaster offers an intuitive interface and a wide range of creative options.",
+    "size": 25,
+    "reviews": 850,
+    "ratingAvg": 4.7,
+    "downloads": "850K",
+    "ratings": [
+      {"name": "1 star", "count": 30},
+      {"name": "2 star", "count": 50},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 300},
+      {"name": "5 star", "count": 370}
+    ]
+  },
+  {
+    "image": "../public/demo-app (3).webp",
+    "title": "FitTrack  - Track Workouts, and Health Progress",
+    "companyName": "HealthTech Inc.",
+    "id": 3,
+    "description": "FitTrack is your personal fitness companion, helping you monitor your workouts, nutrition, and progress. With features like workout tracking, meal logging, and progress analytics, FitTrack provides insights to help you achieve your fitness goals. Whether you're aiming to lose weight, build muscle, or maintain a healthy lifestyle, FitTrack supports you every step of the way.",
+    "size": 20,
+    "reviews": 950,
+    "ratingAvg": 4.6,
+    "downloads": "950K",
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 130},
+      {"name": "4 star", "count": 300},
+      {"name": "5 star", "count": 420}
+    ]
+  },
+  {
+    "image": "../public/demo-app (6).webp",
+    "title": "NoteMaster - Capture Ideas and Stay Productive",
+    "companyName": "EduSoft",
+    "id": 4,
+    "description": "NoteMaster is a versatile note-taking app designed to help you capture ideas, organize information, and stay productive. With features like voice notes, handwriting recognition, and cloud synchronization, NoteMaster ensures your notes are always accessible and well-organized. Ideal for students, professionals, and creatives, NoteMaster adapts to your note-taking style.",
+    "size": 18,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": "1.1M",
+    "ratings": [
+      {"name": "1 star", "count": 60},
+      {"name": "2 star", "count": 90},
+      {"name": "3 star", "count": 200},
+      {"name": "4 star", "count": 350},
+      {"name": "5 star", "count": 400}
+    ]
+  },
+  {
+    "image": "../public/demo-app (4).webp",
+    "title": "TaskMaster - Organize Lists and Track Deadlines",
+    "companyName": "Productivity Plus",
+    "id": 5,
+    "description": "TaskMaster is a task management app that helps you organize your to-do lists, set reminders, and track deadlines. With a user-friendly interface and powerful features like project categorization and priority setting, TaskMaster ensures you stay on top of your tasks. Whether you're managing personal projects or team assignments, TaskMaster keeps you organized and efficient.",
+    "size": 22,
+    "reviews": 1300,
+    "ratingAvg": 4.3,
+    "downloads": "1.3M",
+    "ratings": [
+      {"name": "1 star", "count": 70},
+      {"name": "2 star", "count": 100},
+      {"name": "3 star", "count": 250},
+      {"name": "4 star", "count": 400},
+      {"name": "5 star", "count": 480}
+    ]
+  },
+  {
+    "image": "../public/demo-app (5).webp",
+    "title": "BudgetBuddy  - Track Expenses and Achieve Goals",
+    "companyName": "Finance Solutions",
+    "id": 6,
+    "description": "BudgetBuddy is a personal finance app that helps you track your expenses, set budgets, and achieve your financial goals. With features like expense categorization, bill reminders, and financial reports, BudgetBuddy provides insights into your spending habits. Whether you're saving for a big purchase or managing daily expenses, BudgetBuddy is your trusted financial companion.",
+    "size": 17,
+    "reviews": 800,
+    "ratingAvg": 4.2,
+    "downloads": "800K",
+    "ratings": [
+      {"name": "1 star", "count": 50},
+      {"name": "2 star", "count": 80},
+      {"name": "3 star", "count": 150},
+      {"name": "4 star", "count": 250},
+      {"name": "5 star", "count": 270}
+    ]
+  },
+  {
+    "image": "../public/demo-app (2).webp",
+    "title": "TravelMate  - Plan Your Trips",
+    "companyName": "GlobeTrotter Apps",
+    "id": 7,
+    "description": "TravelMate is a travel planning app that helps you discover destinations, book accommodations, and plan itineraries. With features like flight tracking, hotel booking, and local recommendations, TravelMate makes your travel planning seamless and enjoyable. Whether you're planning a weekend getaway or an international adventure, TravelMate is your ultimate travel companion.",
+    "size": 30,
+    "reviews": 950,
+    "ratingAvg": 4.8,
+    "downloads": "950K",
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 30},
+      {"name": "3 star", "count": 70},
+      {"name": "4 star", "count": 200},
+      {"name": "5 star", "count": 630}
+    ]
+  },
+  {
+    "image": "../public/demo-app (1).webp",
+    "title": "LanguagePro - Learn New Languages",
+    "companyName": "LinguaTech",
+    "id": 8,
+    "description": "LanguagePro is a language learning app that offers interactive lessons, quizzes, and pronunciation guides. With support for multiple languages and personalized learning paths, LanguagePro helps you master new languages at your own pace. Whether you're a beginner or looking to improve your skills, LanguagePro provides the tools and resources you need to succeed.",
+    "size": 28,
+    "reviews": 1100,
+    "ratingAvg": 4.6,
+    "downloads": "1.1M",
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 150},
+      {"name": "4 star", "count": 300},
+      {"name": "5 star", "count": 550}
+    ]
+  },
+  {
+    "image": "../public/demo-app (3).webp",
+    "title": "CookMaster - Step-by-Step Recipes",
+    "companyName": "Gourmet Apps",
+    "id": 9,
+    "description": "CookMaster is a cooking app that provides a vast collection of recipes, meal planning tools, and grocery lists. With features like step-by-step cooking instructions, video tutorials, and nutritional information, CookMaster makes cooking at home easy and enjoyable. Whether you're a novice or an experienced chef, CookMaster offers inspiration and guidance for every meal.",
+    "size": 24,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": "950K",
+    "ratings": [
+      {"name": "1 star", "count": 30},
+      {"name": "2 star", "count": 50},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 300},
+      {"name": "5 star", "count": 470}
+    ]
+  },
+  {
+    "image": "../public/demo-app (4).webp",
+    "title": "StudyBuddy - Organize Study Materials",
+    "companyName": "EduTech Solutions",
+    "id": 10,
+    "description": "StudyBuddy is an educational app designed to help students organize their study materials, set study schedules, and track academic progress. With features like flashcards, study reminders, and performance analytics, StudyBuddy enables students to optimize learning strategies and achieve better results.",
+    "size": 21,
+    "reviews": 870,
+    "ratingAvg": 4.4,
+    "downloads": "870K",
+    "ratings": [
+      {"name": "1 star", "count": 40},
+      {"name": "2 star", "count": 60},
+      {"name": "3 star", "count": 160},
+      {"name": "4 star", "count": 250},
+      {"name": "5 star", "count": 360}
+    ]
+  },
+  {
+    "image": "../public/demo-app (5).webp",
+    "title": "MindCalm - Guided Meditation and Stress Relief",
+    "companyName": "Wellness Apps",
+    "id": 11,
+    "description": "MindCalm is a meditation and mental wellness app that guides users through mindfulness exercises, breathing techniques, and daily meditation sessions. Its calming interface and personalized programs are designed to reduce stress, improve focus, and enhance overall mental well-being.",
+    "size": 19,
+    "reviews": 920,
+    "ratingAvg": 4.7,
+    "downloads": "920K",
+    "ratings": [
+      {"name": "1 star", "count": 25},
+      {"name": "2 star", "count": 40},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 300},
+      {"name": "5 star", "count": 455}
+    ]
+  },
+  {
+    "image": "../public/demo-app (6).webp",
+    "title": "MusicWave - Stream Millions of Songs",
+    "companyName": "SoundTech Labs",
+    "id": 12,
+    "description": "MusicWave is a music streaming app that provides access to millions of tracks, curated playlists, and personalized recommendations. With offline listening, high-quality audio, and a social sharing feature, MusicWave brings the joy of music to your fingertips anytime, anywhere.",
+    "size": 26,
+    "reviews": 1400,
+    "ratingAvg": 4.8,
+    "downloads": "1.4M",
+    "ratings": [
+      {"name": "1 star", "count": 30},
+      {"name": "2 star", "count": 50},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 400},
+      {"name": "5 star", "count": 800}
+    ]
+  },
+  {
+    "image": "../public/demo-app (5).webp",
+    "title": "FitMeal - Personalized Nutrition Plans",
+    "companyName": "NutriTech Labs",
+    "id": 13,
+    "description": "FitMeal provides personalized nutrition plans based on your health goals, dietary preferences, and lifestyle. It features meal tracking, recipe suggestions, and grocery lists to simplify healthy eating. With insightful analytics and tips, FitMeal guides you toward balanced nutrition and sustainable habits.",
+    "size": 23,
+    "reviews": 780,
+    "ratingAvg": 4.5,
+    "downloads": "780K",
+    "ratings": [
+      {"name": "1 star", "count": 35},
+      {"name": "2 star", "count": 55},
+      {"name": "3 star", "count": 130},
+      {"name": "4 star", "count": 240},
+      {"name": "5 star", "count": 320}
+    ]
+  },
+  {
+    "image": "../public/demo-app (4).webp",
+    "title": "EventPlanner - Plan and Manage Events",
+    "companyName": "Eventify Inc.",
+    "id": 14,
+    "description": "EventPlanner helps you organize and manage events of all sizes. From sending invitations to tracking RSVPs and scheduling activities, it offers tools to make event planning efficient. With customizable templates and reminders, EventPlanner ensures your events are seamless and enjoyable for both hosts and guests.",
+    "size": 29,
+    "reviews": 650,
+    "ratingAvg": 4.4,
+    "downloads": "650K",
+    "ratings": [
+      {"name": "1 star", "count": 25},
+      {"name": "2 star", "count": 45},
+      {"name": "3 star", "count": 110},
+      {"name": "4 star", "count": 180},
+      {"name": "5 star", "count": 290}
+    ]
+  },
+  {
+    "image": "../public/demo-app (3).webp",
+    "title": "PhotoScan Pro - Scan and Enhance Photos",
+    "companyName": "ScanTech Solutions",
+    "id": 15,
+    "description": "PhotoScan Pro allows you to scan old photos and documents and enhance their quality using advanced image processing tools. With features like automatic cropping, color correction, and cloud backup, it preserves memories digitally and ensures they look their best for sharing or printing.",
+    "size": 27,
+    "reviews": 720,
+    "ratingAvg": 4.6,
+    "downloads": "720K",
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 30},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 200},
+      {"name": "5 star", "count": 350}
+    ]
+  },
+  {
+    "image": "../public/demo-app (2).webp",
+    "title": "SleepWell - Sleep Tracking and Relaxation",
+    "companyName": "DreamTech Apps",
+    "id": 16,
+    "description": "SleepWell is designed to help you monitor sleep patterns, improve sleep quality, and reduce insomnia. With features like sleep tracking, soothing sounds, and personalized recommendations, SleepWell ensures restorative sleep for better health and increased productivity during the day.",
+    "size": 20,
+    "reviews": 680,
+    "ratingAvg": 4.3,
+    "downloads": "680K",
+    "ratings": [
+      {"name": "1 star", "count": 25},
+      {"name": "2 star", "count": 40},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 180},
+      {"name": "5 star", "count": 315}
+    ]
+  },
+  {
+    "image": "../public/demo-app (1).webp",
+    "title": "GameZone - Play and Discover Games",
+    "companyName": "FunSoft Studios",
+    "id": 17,
+    "description": "GameZone brings thousands of games to your device with personalized recommendations and social features. Play solo or compete with friends in multiplayer challenges. GameZone also tracks your achievements and progress, offering a fun and engaging gaming experience for all ages.",
+    "size": 35,
+    "reviews": 890,
+    "ratingAvg": 4.7,
+    "downloads": "890K",
+    "ratings": [
+      {"name": "1 star", "count": 30},
+      {"name": "2 star", "count": 50},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 250},
+      {"name": "5 star", "count": 460}
+    ]
+  },
+  {
+    "image": "../public/demo-app (2).webp",
+    "title": "WeatherWise - Real-Time Weather Updates",
+    "companyName": "ClimateTech Labs",
+    "id": 18,
+    "description": "WeatherWise provides real-time weather updates, forecasts, and severe weather alerts. With interactive maps and radar views, it helps you plan your day and stay prepared for changing weather conditions. The app also offers personalized notifications based on your location and preferences.",
+    "size": 18,
+    "reviews": 770,
+    "ratingAvg": 4.5,
+    "downloads": "770K",
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 35},
+      {"name": "3 star", "count": 100},
+      {"name": "4 star", "count": 200},
+      {"name": "5 star", "count": 415}
+    ]
+  },
+  {
+    "image": "../public/demo-app (3).webp",
+    "title": "TravelLog - Document Your Journeys",
+    "companyName": "TravelTech Studios",
+    "id": 19,
+    "description": "TravelLog allows you to document your travels with photos, notes, and location tagging. Create travel journals, share experiences with friends, and revisit memories anytime. With integrated maps and offline access, TravelLog ensures your adventures are preserved beautifully and safely.",
+    "size": 25,
+    "reviews": 640,
+    "ratingAvg": 4.4,
+    "downloads": "640K",
+    "ratings": [
+      {"name": "1 star", "count": 20},
+      {"name": "2 star", "count": 30},
+      {"name": "3 star", "count": 110},
+      {"name": "4 star", "count": 180},
+      {"name": "5 star", "count": 300}
+    ]
+  },
+  {
+    "image": "../public/demo-app (4).webp",
+    "title": "ArtStudio - Draw, Paint, and Create",
+    "companyName": "CreativeApps Inc.",
+    "id": 20,
+    "description": "ArtStudio is a comprehensive drawing and painting app with a wide range of brushes, tools, and layers. It allows artists of all levels to create digital masterpieces, experiment with colors, and share artwork with a community of creatives. ArtStudio also supports stylus input for precise and natural drawing experience.",
+    "size": 32,
+    "reviews": 710,
+    "ratingAvg": 4.6,
+    "downloads": "710K",
+    "ratings": [
+      {"name": "1 star", "count": 25},
+      {"name": "2 star", "count": 40},
+      {"name": "3 star", "count": 120},
+      {"name": "4 star", "count": 200},
+      {"name": "5 star", "count": 325}
+    ]
+  }
+]
