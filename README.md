@@ -1,16 +1,35 @@
-# React + Vite
+# Hero.io – All-in-One App Management Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+Hero.io is a versatile application platform that allows users to explore, install, and manage a wide range of apps seamlessly. Designed with a focus on simplicity and efficiency, Hero.io provides a smooth user experience for discovering applications, viewing detailed app information, installing apps, and managing your personal app library. The platform also features app ratings, download counts, and real-time updates to help users make informed decisions. With Hero.io, managing your digital toolkit has never been easier.
 
-Currently, two official plugins are available:
+Key Features:
+Browse and explore a curated list of apps.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+View detailed app information, including ratings, downloads, and descriptions.
 
-## React Compiler
+Install and uninstall apps with a single click.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Sort and filter apps based on downloads or other metrics.
 
-## Expanding the ESLint configuration
+Persistent installed apps using localStorage.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Loading animations for smooth navigation and search operations.
+
+Toast notifications for installation and uninstallation events.
+
+Technologies Used:
+
+React.js: For building a dynamic and responsive UI.
+
+React Router v6: For client-side routing and navigation.
+
+Tailwind CSS / DaisyUI: For responsive and visually appealing design components.
+
+Recharts: For rendering interactive charts and visualizing app ratings.
+
+React Toastify: For toast notifications on install/uninstall actions.
+
+LocalStorage: To store installed apps persistently on the client side.
+
+Vite: For fast development and optimized builds.
