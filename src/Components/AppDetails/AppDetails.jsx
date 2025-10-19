@@ -33,12 +33,18 @@ const AppDetails = () => {
   }));
 
   const handleInstall = () => {
-       const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
-         if (!installedApps.includes(app.id)) {installedApps.push(app.id);
-            localStorage.setItem('installedApps', JSON.stringify(installedApps));}
-         setInstalled(true);
-         toast.success(`${app.title} installed successfully!`);
-   };
+  const installedApps = JSON.parse(localStorage.getItem('installedApps')) || [];
+
+  if (!installedApps.includes(app.id)) {
+    installedApps.push(app.id);
+    localStorage.setItem('installedApps', JSON.stringify(installedApps));
+    setInstalled(true);
+    toast.success(`${app.title} installed successfully!`);
+  } else {
+    setInstalled(true);
+    toast.info(`${app.title} is already installed`);
+  }
+};
 
   const {image, title,description, reviews,size, downloads,ratingAvg} = app
 
